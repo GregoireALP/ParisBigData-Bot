@@ -10,7 +10,7 @@
   "author": "Gregoirelpv",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "requirejs": "^2.3.6",
     "twit": "^2.2.11"
   }
